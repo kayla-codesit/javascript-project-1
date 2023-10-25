@@ -1,1 +1,1 @@
-# My Frist Git Repo
+# My First Git Repo
